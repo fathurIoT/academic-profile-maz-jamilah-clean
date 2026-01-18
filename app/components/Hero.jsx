@@ -87,7 +87,7 @@ export default function Hero() {
         <div className="flex justify-center md:justify-end">
           <div className="rounded-2xl overflow-hidden shadow-xl">
             <Image
-              src="/images/gambar-ibu.jpeg"
+              src="/images/gambar-ibu-2.jpeg"
               alt="Maz Jamilah Masnan"
               width={420}
               height={520}
